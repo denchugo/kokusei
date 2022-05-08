@@ -208,7 +208,7 @@ h1 a:visited{
 blockquote{
     position:relative;
     padding:10px 10px 10px 50px;
-    box-sizing border-box;
+    box-sizing: border-box;
     margin:15px;
     font-size:90%;
     border-radius: 8px;
@@ -314,9 +314,6 @@ cite{
     border-color:#a4bddb;
 }
 
-.dl1{
-}
-
 .dt1{
     font-weight:bold;
 }
@@ -350,7 +347,7 @@ cite{
 }
 
 .counter{
-    font-family:,Arial;
+    font-family:Arial;
 }
 
 .pagetop{
